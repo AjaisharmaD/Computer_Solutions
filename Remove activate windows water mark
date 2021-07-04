@@ -1,0 +1,7 @@
+step #1 :  Open command promptu,,
+
+step #2 :  TYPE THIS COMMAND
+
+bcdedit -set TESTSIGNING OFF
+
+step #3:  RESTART YOUR COMPUTER / PC
